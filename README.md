@@ -42,6 +42,18 @@ Focus marketing campaigns on high-performing brands and product categories.
 Introduce loyalty programs to increase repeat purchases.
 Continuously monitor customer engagement to optimize marketing strategies.
 
+## Dashboard Preview
+
+### Page 1 – Executive Dashboard
+
+![Dashboard Page 1](Dashboard_Page_1.png)
+
+---
+
+### Page 2 – Customer Engagement & Product Analysis
+
+![Dashboard Page 2](Dashboard_Page_2.png)
+
 ## Project Files:
 
 Power BI Dashboard: Ecommerce_Customer_Retention_Engagement_Analysis.pbix
